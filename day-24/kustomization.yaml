@@ -1,0 +1,6 @@
+resources:
+- odoo-pvc.yaml
+- postgres-pvc.yaml
+- postgres-secret.yaml
+- postgres.yaml
+- odoo.yaml
